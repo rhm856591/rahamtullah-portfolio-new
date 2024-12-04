@@ -1073,7 +1073,7 @@ export default function EnhancedPortfolio() {
 
           <footer className="bg-black/80 backdrop-blur-sm py-8">
             <div className="container mx-auto px-6 text-center">
-              <p className="text-zinc-400">Copyright &copy; 2024 Sandeep Makwana. All rights reserved.</p>
+              <p className="text-zinc-400">Copyright &copy; 2024 Rahamtullah Sheikh. All rights reserved.</p>
             </div>
           </footer>
           <Analytics />
