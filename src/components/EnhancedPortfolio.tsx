@@ -774,7 +774,7 @@ export default function EnhancedPortfolio() {
             <section id="projects" className="py-20">
               <h2 className={`text-3xl font-bold mb-8 text-center ${isDarkMode ? 'text-white' : 'text-black'}`}>Projects</h2>
               <Window title="projects.json" isActive>
-                <div className="space-y-8">
+                <div className="space-y-8 px-5">
                   {[
                     {
                       id: '01',
@@ -846,7 +846,7 @@ export default function EnhancedPortfolio() {
                 </motion.a>
               </div>
               <Window title="career.json" isActive={activeWindow === 'career'}>
-                <div className="space-y-12">
+                <div className="space-y-12 px-5">
 
                   {/* Web Developer Internship */}
                   <motion.div
